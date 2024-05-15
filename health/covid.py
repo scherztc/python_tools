@@ -15,13 +15,13 @@ import math
 
 # Input
 
-sigma = float(input('Enter the coefficient sigma ='))
-mu = float(input('Enter the coefficient mu ='))
-gamma = float(input('Enter the coefficient gamma ='))
-delta = float(input('Enter the coefficient delta ='))
-beta1 = float(input('Enter the coefficient beta1 ='))
-beta2 = float(input('Enter the coefficient beta2 ='))
-alpha = float(input('Enter the parameter alpha ='))
+sigma = float(input('Enter the Incubation coefficient sigma ='))
+mu = float(input('Enter the Morality coefficient mu ='))
+gamma = float(input('Enter the Latency coefficient gamma ='))
+delta = float(input('Enter the Birth Rate coefficient delta ='))
+beta1 = float(input('Enter the Transmission Rate coefficient beta1 ='))
+beta2 = float(input('Enter the Transmission Rate coefficient beta2 ='))
+alpha = float(input('Enter the Reproductive parameter alpha ='))
 
 # Calculate
 num = (delta*(beta1*sigma+(gamma+mu)*beta2))

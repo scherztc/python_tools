@@ -1,4 +1,4 @@
-# Acticvity Python 1: Task 3
+# Activity Python 1: Task 3
 # File: HW_10P2_TASK3_UCscherzts.py
 # Date:    2 Nov 2023
 # By:      Tre Scherz

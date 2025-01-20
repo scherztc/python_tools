@@ -1,0 +1,26 @@
+Folder: Bookmarks Bar
+    http://127.0.0.1:8983/solr/#/hydra-development/query (INVALID)
+    http://12devs.co.uk/articles/writing-a-web-application-with-ruby-on-rails/
+    http://1m4ge.blogspot.com/2011/06/how-to-validate-credit-card-with-your.html
+    http://3drobotics.com/
+    http://78records.cdbpdx.com/
+    http://aaamath.com/
+    http://abstrusegoose.com/267 (INVALID)
+    http://academicearth.org/courses/introduction-to-computer-science-and-programming (INVALID)
+    http://accept.airtran.com//accept.aspx (INVALID)
+    http://afreshcup.com/home/2014/4/16/double-shot-1337.html (INVALID)
+    http://africanancestry.com/home/
+    http://aidanmoher.com/blog/wp-content/uploads/2011/10/alien_contact_infrographics.png (INVALID)
+    http://aims.fao.org/community/general-information/blogs/webinaraims-how-select-appropriate-encoding-strategies-producing (INVALID)
+    http://aims.fao.org/lode/bd (INVALID)
+    http://aims.fao.org/lode/bd-2/step-forward#publish (INVALID)
+    http://aj2vr6xy7z.cs.serialssolutions.com/
+    http://alchemy.cs.washington.edu/
+    http://all-that-is-interesting.com/chemical-reaction-gifs/3 (INVALID)
+    http://allhiphop.com/2014/01/03/allhiphop-coms-top-50-underground-indie-emerging-artists-2013/
+    http://allrecipes.com/HowTo/The-Perfect-Pantry/Detail.aspx?ARBMID=1751&ARFMTID=1 (INVALID)
+    http://allrecipes.com/Recipe/Baked-Pork-Chops-I/Detail.aspx
+    http://allrecipes.com/Recipe/Buffalo-Chicken-Dipping-Balls/Detail.aspx (INVALID)
+    http://allrecipes.com/Recipe/Pierogies/Detail.aspx (INVALID)
+    http://allrecipes.com/Recipe/Pork-Chops-Stuffed-with-Smoked-Gouda-and-Bacon/Detail.aspx
+    http://allrecipes.com/Recipe/Pork-Chops-with-Fresh-Tomato-Onion-Garlic-and-Feta/Detail.aspx

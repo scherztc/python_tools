@@ -32,18 +32,13 @@ if __name__ == "__main__":
 	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=music&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
 	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=european&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
 	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=watch&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
-	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=pizza&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
 	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=art&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
 	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=tea&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
 	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=golf&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
-        "https://www.bidfta.com/items?pageId=1&itemSearchKeywords=coat&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
-        "https://www.bidfta.com/items?pageId=1&itemSearchKeywords=jacket&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
         "https://www.bidfta.com/items?pageId=1&itemSearchKeywords=remote control&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
-        "https://www.bidfta.com/items?pageId=1&itemSearchKeywords=snake&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
 	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=adidas&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
 	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=nike&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
 	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=fifa&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
-	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=sewing machine&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
 	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=day bed&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
 	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=kayak&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
   	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=ninja&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
@@ -51,9 +46,7 @@ if __name__ == "__main__":
       	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=porch swing&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
        	"https://www.bidfta.com/items?pageId=1&itemSearchKeywords=metal detector&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
            "https://www.bidfta.com/items?pageId=1&itemSearchKeywords=curtain rods&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
-           "https://www.bidfta.com/items?pageId=1&itemSearchKeywords=broadway&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
            "https://www.bidfta.com/items?pageId=1&itemSearchKeywords=science&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
-           "https://www.bidfta.com/items?pageId=1&itemSearchKeywords=literature&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l",
            "https://www.bidfta.com/items?pageId=1&itemSearchKeywords=bedroom furniture&location=24&location=26&location=2&location=520&location=25&location=581&locations=26&locations=24&locations=2&locations=581&l"
     ]
     open_urls_in_browser(urls)
